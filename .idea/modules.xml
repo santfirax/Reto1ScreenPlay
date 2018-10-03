@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Reto1Screenplay.iml" filepath="$PROJECT_DIR$/Reto1Screenplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto1screenplay.iml" filepath="$PROJECT_DIR$/.idea/modules/reto1screenplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto1screenplay_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reto1screenplay_main.iml" group="reto1screenplay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto1screenplay_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reto1screenplay_test.iml" group="reto1screenplay" />
+    </modules>
+  </component>
+</project>
